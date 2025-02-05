@@ -28,6 +28,7 @@
 <p>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Avba"><img alt="VBA" src="https://img.shields.io/badge/VBA-003B6D.svg?logo=microsoft&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://custom-icon-badges.herokuapp.com/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
 
 <!--     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a> -->
 </p>
