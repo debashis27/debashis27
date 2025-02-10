@@ -1,8 +1,7 @@
 <h1 align="center">Hello
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Debashis Chowdhury</h1>
 <h3 align="center">Data Anlytics Enthusiast</h3>
- <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
-  <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/FpaDM99g9BUAAAAd/courage-the-cowardly-dog-coding.gif">
+  <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9xdWFlNG1lNTRlMnN6cGJ0M2l0ZnAxN3NsdHEzYXRpcDk1OHhnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66pRZHpxoOOXvf8zQX/giphy.gif">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=emptynode&label=Profile%20views&color=0e75b6&style=flat" alt="emptynode" /> </p> -->
 
 # 💫 About Me
